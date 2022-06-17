@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ReadFileCDR.iml" filepath="$PROJECT_DIR$/ReadFileCDR.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/read-file-cdr.iml" filepath="$PROJECT_DIR$/.idea/modules/read-file-cdr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/read-file-cdr.main.iml" filepath="$PROJECT_DIR$/.idea/modules/read-file-cdr.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/read-file-cdr.test.iml" filepath="$PROJECT_DIR$/.idea/modules/read-file-cdr.test.iml" />
     </modules>
   </component>
 </project>
