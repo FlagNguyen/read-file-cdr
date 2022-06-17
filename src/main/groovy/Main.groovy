@@ -4,11 +4,6 @@ import file.impl.FileImpl
 import service.Service
 import service.impl.ServiceImpl
 
-import java.io.File
-import java.io.IOException
-import java.util.Set
-
-
 static void main(String[] args) throws IOException {
     final FileHandle fileHandle = new FileImpl()
     final Service service = new ServiceImpl()
